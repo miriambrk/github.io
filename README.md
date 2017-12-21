@@ -1,2 +1,3 @@
 # github.io
-host web page
+
+incorrect directory
